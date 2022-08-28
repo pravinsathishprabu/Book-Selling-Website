@@ -1,4 +1,4 @@
-## Book Selling Website - Laravel 
+## Online Book Store - Laravel 
 
 ## SignUp
 ![IMG-20220807-WA0000](https://user-images.githubusercontent.com/64587088/187063661-6b8df3e7-10c0-4e4a-bbde-e15bf7644211.jpg)
